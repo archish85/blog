@@ -3,4 +3,13 @@ layout: post
 title: Getting used to markdown VS Code and git
 ---
 
-I am not a coder, I am hardly an engineer. I was an Excel jockey who was forced to turn into a query monkey who would write SQL queries day in and day out and then shoved into a Data Analyst role where I learnt to use python to put data into neat looking structures called dataframes which made my job easier but hectic. I feel comfortable residing inside Python Notebooks and have barely used git in what feels like my previous life but was just my previous job. So here I am, trying to make markdown files using different apps, currently I am typing this in VS Code and then using the obscure magic of git and github to make my own Blog managed with Jekyll because I want to use this opportunity to learn, and because I am a cheap bastard and this was the least costly option. This post is just a test post to see if I can create a workflow using VS Code. 
+I’m not a coder. I’m hardly an engineer.
+I was an Excel jockey, forced to turn into a query monkey, writing SQL day in and day out — and then shoved into a Data Analyst role where I had to learn Python just to put data into neat little structures called dataframes. They made my job easier… and also more hectic.
+
+I feel comfortable inside Python notebooks and had barely used Git in what now feels like a previous life (but was just my previous job). And here I am — trying to write Markdown files using different apps. Right now, I’m typing this in VS Code, relying on the obscure magic of Git and GitHub to power a blog managed by Jekyll.
+
+Why?
+Because I want to learn.
+And because I’m a cheap bastard, and this was the least costly option.
+
+This post is just a test to see if I can create a working blog workflow using VS Code.
