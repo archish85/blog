@@ -4,7 +4,7 @@ title: "Asked ChatGPT to guess the song from my violin recording"
 date: 2025-05-31
 ---
 
-# How ChatGPT helped me record my violin
+## How ChatGPT helped me record my violin
 
 For long I have dreamt of being able to record my violin directly into a computer and get it to synthesize the audio while recording and being able to monitor it while playing. I have not been very successful at it. Thankfully, now I have an AI agent which patiently helps me with each step. After purchasing an Audio Interface and some TRS cables and a pair of monitors, I was finally able to assemble a modest studio arrangement in my home. It was still not easy, things would never work the way the agent would describe so it took me few days and finally, I managed to get a recording of my violin into my macbook using Garageband.
 
@@ -16,11 +16,11 @@ Here's the recording of my violin:
   Your browser does not support the audio element.
 </audio>
 
-# Can you guess the song?
+## Can you guess the song?
 
 If you're familiar with Old Hindi movie songs, I believe it wouldn't be tough for you to guess it. ChatGPT, however, failed to do so. 
 
-# An insight into how an LLM tries to identify a song
+## An insight into how an LLM tries to identify a song
 
 Before this experiment, I had uploaded a hindi song with my flute and using my iphone as a mic, I had naively named the file as the song title 'Husnwaale tera jawab nahi flute.mp3' and uploaded it to ChatGPT and asked it for feedback. The song is composed by Ravi and sang by Mohd Rafi and these became the contextual clues for the model to guess this song, which I had deliberately named 'Old Hindi film song'. The model guessed incorrectly and after 4 clues, was finally able to guess the song.
 
