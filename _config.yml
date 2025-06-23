@@ -78,7 +78,7 @@ gems:
   - jekyll-include-cache # Added for theming
 
 # Adding minimal-mistakes theme
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+theme: "mmistakes/minimal-mistakes@4.27.1"
 
 # Exclude these files from your production _site
 exclude:
