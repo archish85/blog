@@ -1,3 +1,15 @@
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Archish Srinivasan
+
+# Short bio or description (displayed in the header)
+description: Just another tech enthusiast, jotting down my thoughts here
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://i.postimg.cc/MZ74zVdg/A-digital-illustration-compressed.png
+
 title: "Archish Srinivasan"
 description: "Just another tech enthusiast, jotting down my thoughts here"
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
@@ -6,10 +18,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 baseurl: "/blog"
 url: "https://archish85.github.io"  # Replace this
 
-author:
-  name: Archish Srinivasan
-  avatar: https://i.postimg.cc/MZ74zVdg/A-digital-illustration-compressed.png
-  bio: Just another tech enthusiast, jotting down my thoughts here
+#author:
+#  name: Archish Srinivasan
+#  avatar: https://i.postimg.cc/MZ74zVdg/A-digital-illustration-compressed.png
+#  bio: Just another tech enthusiast, jotting down my thoughts here
 
 # Social Links
 social:
