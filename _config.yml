@@ -3,8 +3,8 @@ description: "Just another tech enthusiast, jotting down my thoughts here"
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 # Base URL if hosted in /blog subdir
-baseurl: /blog
-url: https://archish85.github.io  # Replace this
+baseurl: "/blog"
+url: "https://archish85.github.io"  # Replace this
 
 author:
   name: Archish Srinivasan
