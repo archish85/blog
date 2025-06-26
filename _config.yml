@@ -1,43 +1,25 @@
-# This file contains configuration flags to customize your site
-#
+title:              Archish Srinivasan
+email:              archish85@gmail.com
+description:        Just jotting down my thoughts and ideas
+author:             Archish Srinivasan
+baseurl:            "/blog"
+url:                ""
 
-# Name of your site (displayed in the header)
-name: Archish Srinivasan
+# Social Profiles
+twitter_username:   archish85
+github_username:    archish85
+facebook_username:  archish85
+instagram_username:  
+linkedin_username: archish85
 
-# Short bio or description (displayed in the header)
-description: Just another tech enthusiast, jotting down my thoughts here
+# Add your google-analytics ID here to activate google analytics
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://i.postimg.cc/MZ74zVdg/A-digital-illustration-compressed.png
-
-title: "Archish Srinivasan"
-#description: "Just another tech enthusiast, jotting down my thoughts here"
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-
-# Base URL if hosted in /blog subdir
-baseurl: "/blog"
-url: "https://archish85.github.io"  # Replace this
-
-#author:
-#  name: Archish Srinivasan
-#  avatar: https://i.postimg.cc/MZ74zVdg/A-digital-illustration-compressed.png
-#  bio: Just another tech enthusiast, jotting down my thoughts here
-
-# Social Links
-footer-links:
-  twitter: archish85
-  github: https://github.com/archish85/
-  linkedin: https://www.linkedin.com/in/archish85/
-  rss: true
-
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-permalink: /:title/
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
