@@ -4,7 +4,7 @@ title: It's rude to be polite in an AI world!
 subtitle: Why you need to work hard even with an AI
 ---
 
-# Article Summary
+### Article Summary
 - Years ago, it was considered important to be polite, and the use of overtly formal phrases in communication was appreciated.
 - Specialists like scribes would draft formal messages.
 - We live in a world where all of us carry a scribe in our pocket.
