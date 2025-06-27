@@ -12,7 +12,7 @@ avatar: https://i.postimg.cc/MZ74zVdg/A-digital-illustration-compressed.png
 
 title: "Archish Srinivasan"
 #description: "Just another tech enthusiast, jotting down my thoughts here"
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+#remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 # Base URL if hosted in /blog subdir
 baseurl: "/blog"
