@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Getting used to markdown VS Code and git
+date: 2025-05-31
+author: Archish Srinivasan
+background: /img/posts/01.jpg
 ---
 
 I’m not a coder. I’m hardly an engineer.

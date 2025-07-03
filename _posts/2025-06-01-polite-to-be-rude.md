@@ -1,7 +1,10 @@
 ---
 layout: post
-title: It's rude to be polite in an AI world!
-subtitle: Why you need to work hard even with an AI
+title: "It's rude to be polite in an AI world!"
+subtitle: "Why you need to work hard even with an AI"
+date: 2025-06-01
+author: Archish Srinivasan
+background: /img/posts/04.jpg
 ---
 
 ## Article Summary
@@ -20,7 +23,7 @@ If you happen to get your hands on old letters written by common folks to each o
 
 Humans have been interacting with bots for years now, and in the process of training them, we have created an entity that is extremely deferential and servile. This is [already creating problems of one kind](https://www.popsci.com/technology/openai-jerks/), but it is to be expected. After all, a model that blurts out truth bombs is hardly passing the systems of a human tester who, I imagine, would not take it kindly to a bot that calls them an unrequired, overpaid regulatory moron. Also, despite [Sam Altman suggesting](https://www.techinasia.com/news/being-polite-to-ai-thatll-cost-you-millions-altman-says) that we not be polite to AI, it is going to take a lot more [to stop us from treating it like a human](https://www.diplomacy.edu/blog/politeness-in-2025-why-are-we-so-kind-to-ai/). Besides, it's a good thing that the chatbot is polite in its tone — what harm could come of that, you may ask.
 
-![Alt text](./images/Polite_2b_rude.PNG)
+![Alt text]({{ site.baseurl }}/images/Polite_2b_rude.PNG)
 
 
 ## Representing the Authentic You
