@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Asked ChatGPT to guess the song from my violin recording"
-date: 2025-05-31
+date: 2025-06-01
+author: Archish Srinivasan
+background: /img/posts/02.jpg
 ---
 
 ## How ChatGPT helped me record my violin

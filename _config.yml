@@ -1,8 +1,16 @@
-# This file contains configuration flags to customize your site
-#
+title:              Archish Srinivasan
+email:              archish85@gmail.com
+description:        Just jotting down my thoughts and ideas v2
+author:             Archish Srinivasan
+baseurl:            "/blog"
+url:                ""
 
-# Name of your site (displayed in the header)
-name: Archish Srinivasan
+# Social Profiles
+twitter_username:   archish85
+github_username:    archish85
+facebook_username:  archish85
+instagram_username:  
+linkedin_username: archish85
 
 # Short bio or description (displayed in the header)
 description: Just another tech enthusiast, jotting down my thoughts here
@@ -31,14 +39,14 @@ footer-links:
   linkedin: https://www.linkedin.com/in/archish85/
   rss: true
 
+# Add your google-analytics ID here to activate google analytics
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-permalink: /:title/
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
